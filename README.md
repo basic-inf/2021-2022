@@ -51,7 +51,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
      * [Esempio](https://basic-inf.github.io/2021-2022/material/example.html) di pagina HTML
    <hr />
 
-11. Le tecnologie informatiche nelle scienze umane
+10. Le tecnologie informatiche nelle scienze umane
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/09.pdf)
    <hr />
 
