@@ -44,7 +44,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/07.pdf)
    <hr />
 
-9.  Cosa succede quando si clicca un link: Le pagine web
+9. Cosa succede quando si clicca un link: Le pagine web
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/08.pdf)
    * materiale:
      * [CSS Zen Garden](http://www.csszengarden.com/)
@@ -52,7 +52,28 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 10. Le tecnologie informatiche nelle scienze umane
-   * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/09.pdf)
-   <hr />
+    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/09.pdf)
+    <hr />
 
 11. Wrap-up
+    <br />
+
+
+   
+
+### Calendario
+
+<table>
+    <tr><th>Data</th><th>Titolo</th></tr>
+    <tr><td>21/03/2022</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
+    <tr><td>24/03/2022</td><td>Algoritmi e computabilità</td></tr>
+    <tr><td>28/03/2022</td><td>Linguaggi di programmazione</td></tr>
+    <tr><td>31/03/2022</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
+    <tr><td>04/04/2022</td><td>Cosa succede quando si clicca un un link: I protocolli di comunicazione</td></tr>
+    <tr><td>07/04/2022</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
+    <tr><td>11/04/2022</td><td>Cosa succede quando si clicca un un link: Trasferire informazioni su Internet</td></tr>
+    <tr><td>21/04/2022</td><td>Cosa succede quando si clicca un un link: Le pagine web</td></tr>
+    <tr><td>28/04/2022</td><td>Le tecnologie informatiche nelle scienze umane</td></tr>
+    <tr><td>02/05/2022</td><td>Wrap-up</td></tr>
+</table>
+    
