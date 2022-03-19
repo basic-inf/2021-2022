@@ -8,6 +8,7 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 ### Indice
 
 1. [Materiale](#materiale)
+2. [Calendario](#calendario)
 
 ### Materiale
 
