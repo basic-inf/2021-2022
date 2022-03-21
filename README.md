@@ -15,9 +15,11 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. Introduzione al corso
+   * slide: [Google Slides](https://tinyurl.com/bi1819-00)
    <hr />
    
 2. Computer, pensiero computazionale e strutture dati
+   * slide: [Google Slides](https://tinyurl.com/bi1819-01)
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/01.pdf)
    <hr />
 
