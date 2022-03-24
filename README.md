@@ -24,6 +24,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 3. Algoritmi e computabilità
+   * slide: [Google Slides](https://tinyurl.com/bi1819-02)
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/02.pdf)
    <hr />
 
