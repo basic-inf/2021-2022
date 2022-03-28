@@ -29,6 +29,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 4. Linguaggi di programmazione
+   * slide: [Google Slides](https://tinyurl.com/bi1819-03)
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/03.pdf)
    <hr />
 
