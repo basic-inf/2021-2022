@@ -34,7 +34,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 5. Cosa succede quando si clicca un link: Il World Wide Web
-   * slide: [Google Slides](https://tinyurl.com/bi1819-03)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-04)
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/04.pdf)
    <hr />
 
