@@ -39,6 +39,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 6. Cosa succede quando si clicca un link: I protocolli di comunicazione
+   * slide: [Google Slides](https://tinyurl.com/bi1819-05)
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/05.pdf)
    <hr />
 
