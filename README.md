@@ -77,8 +77,8 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     <tr><td>28/03/2022</td><td>Linguaggi di programmazione</td></tr>
     <tr><td>31/03/2022</td><td>Cosa succede quando si clicca un un link: Il World Wide Web</td></tr>
     <tr><td>04/04/2022</td><td>Cosa succede quando si clicca un un link: I protocolli di comunicazione</td></tr>
-    <tr><td>07/04/2022</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
-    <tr><td>11/04/2022</td><td>Cosa succede quando si clicca un un link: Trasferire informazioni su Internet</td></tr>
+    <tr><td>11/04/2022</td><td>Cosa succede quando si clicca un un link: Internet</td></tr>
+    <tr><td>12/04/2022</td><td>Cosa succede quando si clicca un un link: Trasferire informazioni su Internet</td></tr>
     <tr><td>21/04/2022</td><td>Cosa succede quando si clicca un un link: Le pagine web</td></tr>
     <tr><td>28/04/2022</td><td>Le tecnologie informatiche nelle scienze umane</td></tr>
     <tr><td>02/05/2022</td><td>Wrap-up</td></tr>
