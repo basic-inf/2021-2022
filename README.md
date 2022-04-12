@@ -49,6 +49,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 8. Cosa succede quando si clicca un link: Trasferire informazioni su Internet
+   * slide: [Google Slides](https://tinyurl.com/bi1819-07)
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/07.pdf)
    <hr />
 
