@@ -54,6 +54,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 9. Cosa succede quando si clicca un link: Le pagine web
+   * slide: [Google Slides](https://tinyurl.com/bi1819-08)
    * capitolo: [PDF](https://basic-inf.github.io/2021-2022/chapters/08.pdf)
    * materiale:
      * [CSS Zen Garden](http://www.csszengarden.com/)
