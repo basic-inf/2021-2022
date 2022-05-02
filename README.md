@@ -67,6 +67,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     <hr />
 
 11. Wrap-up
+    * slide: [Google Slides](https://tinyurl.com/bi1819-10)
     <br />
 
 
